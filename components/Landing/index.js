@@ -4,7 +4,7 @@ import { Details } from "@components/Landing/Details";
 import { Subscribe } from "@components/Landing/Subscribe";
 import { Footer } from "@components/Landing/Footer";
 
-export function HeroComponent() {
+export default function HeroComponent() {
   return (
     <>
       {/* Hero */}

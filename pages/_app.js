@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Next.js Starter Tailwind</title>
+        <title>Video Futura </title>
         <meta
           name="Description"
           content="A Next.js starter styled using Tailwind CSS."

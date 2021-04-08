@@ -1,11 +1,6 @@
-import { CameraRender } from "@components/CameraRender";
+import Landing from "@components/Landing";
 import Image from "next/image";
 
 export default function IndexPage() {
-  return (
-    <>
-      {" "}
-      <CameraRender />
-    </>
-  );
+  return <Landing />;
 }
